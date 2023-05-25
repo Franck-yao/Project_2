@@ -3,7 +3,7 @@ sonar rock vs mine detection with python
 Sonar Rock vs Mine Detection
 This repository contains a machine learning model for detecting the difference between rocks and mines using sonar signals. The model is trained on a dataset that includes sonar readings of different objects in the water, specifically rocks and mines, and it utilizes a supervised learning algorithm to classify the objects.
 
-**Dataset**
+**Dataset**\n
 The dataset used for training the model is not included in this repository due to data availability restrictions. However, you can obtain similar datasets from various sources, such as research institutions or government organizations. The dataset should include sonar readings of different objects in the water, along with corresponding labels indicating whether the object is a rock or a mine.
 
 **Model Training**
